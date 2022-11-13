@@ -1,3 +1,5 @@
+tuba çalışıyoruz
+
 # -*- coding: utf-8 -*-
 """Untitled15.ipynb
 
